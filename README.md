@@ -1,16 +1,21 @@
-## Hi there 👋
+# 안녕하세요, 박의혁입니다 👋
 
-<!--
-**snail5039-code/snail5039-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer · AI Agent Engineer
 
-Here are some ideas to get you started:
+Spring Boot, React Native, Python을 활용해  
+안정적으로 운영되는 서비스와 AI 기능을 개발하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Stack
+
+- Backend: Java, Spring Boot, MyBatis, MySQL
+- Frontend: React, React Native, TypeScript
+- AI: Python, LLM API, AI Agent
+- Tools: Git, GitHub, Docker, Figma
+
+## Projects
+
+- LastCall — 위치와 증상을 기반으로 응급실을 추천하는 모바일 서비스
+- WorkLog — 업무일지 및 인수인계 문서 자동 생성 서비스
+- GestureOS — 손동작 기반 PC 제어 프로그램
+- JE-Trace — AI 기반 학습 관리 플랫폼
