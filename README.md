@@ -41,14 +41,5 @@ Git · GitHub · Docker · Figma
 
 ## 🚀 Projects
 
-### LastCall
-현재 위치와 증상을 기반으로 가까운 응급실을 추천하는 모바일 서비스 (배포 준비중)
-
-### WorkLog
-업무일지와 인수인계 문서를 자동 생성하는 업무 관리 서비스 (미배포)
-
-### GestureOS
-손동작을 인식해 PC를 제어하는 프로그램 (미배포)
-
-### JE-Trace
-과제 관리와 AI 채팅 로그 기능을 포함한 학습 관리 플랫폼 (공모전 종료 후 배포 중단)
+### 노션 : https://app.notion.com/p/Portfolio-2ecc2c49a25080779c4cd443e7dcc930?source=copy_link
+### GitHub Portfolio : https://github.com/snail5039-code/portfolio
