@@ -14,10 +14,13 @@
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </div>
 
@@ -26,16 +29,16 @@
 ## 🛠 Tech Stack
 
 **Backend**  
-Java · Spring Boot · MyBatis · MySQL
+Java · Spring Boot · Spring Security(OAuth2/JWT) · MyBatis · MySQL · PostgreSQL
 
 **Frontend**  
-React · React Native · TypeScript
+Next.js · React · React Native · TypeScript · Tailwind CSS
 
 **AI**  
-Python · LLM API · AI Agent
+Python · Gemini API · OpenAI API · Function Calling · MediaPipe · OpenCV
 
-**Tools**  
-Git · GitHub · Docker · Figma
+**Infra & Tools**  
+Supabase · Docker · Vercel · Git · GitHub · Figma
 
 ---
 
