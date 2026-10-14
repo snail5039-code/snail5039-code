@@ -14,57 +14,38 @@
 
 <br>
 
-## 🔭 지금 만들고 있는 것
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🪖 전역도우미 <img src="https://img.shields.io/badge/개발_중-F59E0B?style=flat-square" alt="개발 중"></h3>
-      전역자가 받을 수 있는 <b>혜택 · 법적 근거 · 신청할 곳</b>을 찾아 할 일 목록으로 이어 주는 에이전트<br><br>
-      ▸ 법령 · 조례 · 안내서 <b>10,143조각 RAG</b> + 공공 API를 <b>MCP 도구</b>로 연결<br>
-      ▸ 규정 검색 84문항 <b>Hit@6 100%</b><br><br>
-      <code>LangGraph</code> <code>pgvector</code> <code>MCP</code> <code>Next.js</code><br><br>
-      <a href="https://github.com/snail5039-code/jeonyeok_helper"><b>저장소 →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 자연어 투자 에이전트 <img src="https://img.shields.io/badge/개발_중-F59E0B?style=flat-square" alt="개발 중"></h3>
-      <b>투자 AI 제안 → 검증 AI 원문 대조 → 사용자 승인</b>을 거친 주문만 증권사로 보내는 앱<br><br>
-      ▸ 틀린 제안 주입 평가에서 평균 <b>19.3 / 20 차단</b>, 오탐 <b>0</b><br>
-      ▸ 모의투자 <b>AI 자동매매를 매일 운영</b>하며 판단 로직 개선 중<br><br>
-      <code>LangGraph</code> <code>FastAPI</code> <code>Flutter</code> <code>KIS API</code><br><br>
-      <a href="https://github.com/snail5039-code/financial-ai-agent"><b>저장소 →</b></a>
-    </td>
-  </tr>
-</table>
-
 ## ✨ 대표 프로젝트
 
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
+      <a href="https://github.com/snail5039-code/jeonyeok_helper"><img src="./assets/jeonyeok-helper.png" alt="전역도우미"></a>
+      <h4>🪖 전역도우미 <img src="https://img.shields.io/badge/개발_중-F59E0B?style=flat-square" alt="개발 중"></h4>
+      전역자 혜택을 <b>법령 근거</b>와 함께 찾아 할 일로 이어 주는 에이전트<br>
+      <b>10,143조각 RAG</b> + <b>MCP</b> 공공 API · 검색 Hit@6 100%<br><br>
+      <code>LangGraph</code> <code>pgvector</code> <code>MCP</code><br>
+      <a href="https://github.com/snail5039-code/jeonyeok_helper"><b>저장소 →</b></a>
+    </td>
+    <td width="33%" valign="top" align="center">
       <a href="https://github.com/snail5039-code/virtual_bank_agent"><img src="./assets/virtual-bank-agent.png" alt="가상 금융 업무 에이전트"></a>
-      <h4>🏦 가상 금융 업무 에이전트</h4>
+      <h4>🏦 가상 금융 업무 에이전트 <img src="https://img.shields.io/badge/로컬_실행-64748B?style=flat-square" alt="로컬 실행"></h4>
       계좌 · 카드 업무를 <b>본인 확인 → 처리안 → 승인</b>으로 처리<br>
       Golden Set 40개 <b>세 평가 모두 40/40</b><br><br>
-      <code>LangGraph</code> <code>LangSmith</code>
+      <code>LangGraph</code> <code>LangSmith</code> <code>FastAPI</code><br>
+      <a href="https://github.com/snail5039-code/virtual_bank_agent"><b>저장소 →</b></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/snail5039-code/commute-battle"><img src="./assets/commute-battle.png" alt="출퇴근 생존일지"></a>
-      <h4>⏰ 출퇴근 생존일지</h4>
-      정정 · 휴가 · 승인 · 월 마감까지 잇는 근태 관리 서비스<br>
-      임금 계산을 DB 함수에 두고 <b>SQL 회귀 테스트 216개</b><br><br>
-      <code>Next.js</code> <code>Supabase</code><br>
-      <a href="https://commute-battle.vercel.app"><b>서비스 열기 →</b></a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <a href="https://github.com/snail5039-code/J-E-Trace"><img src="./assets/je-trace.png" alt="J·E TRACE"></a>
-      <h4>📚 J·E TRACE</h4>
-      학생의 AI 대화와 수정 과정을 기록하는 교육 플랫폼<br>
-      권한 점검 후 <b>백엔드 68개 · E2E 45개</b> 테스트<br><br>
-      <code>Spring Boot</code> <code>MySQL</code>
+      <a href="https://github.com/snail5039-code/financial-ai-agent"><img src="./assets/invest-agent.svg" alt="자연어 투자 에이전트"></a>
+      <h4>📈 자연어 투자 에이전트 <img src="https://img.shields.io/badge/개발_중-F59E0B?style=flat-square" alt="개발 중"></h4>
+      <b>투자 AI 제안 → 검증 AI 대조 → 사용자 승인</b> 뒤에만 주문<br>
+      틀린 제안 <b>19.3/20 차단</b> · 모의 자동매매 매일 운영<br><br>
+      <code>LangGraph</code> <code>FastAPI</code> <code>Flutter</code><br>
+      <a href="https://github.com/snail5039-code/financial-ai-agent"><b>저장소 →</b></a>
     </td>
   </tr>
 </table>
+
+**그 밖에** &nbsp;·&nbsp; [⏰ 출퇴근 생존일지](https://commute-battle.vercel.app) 근태 관리 서비스 (배포) &nbsp;·&nbsp; [🤖 커리마](https://github.com/snail5039-code/personal-financial-management/releases/tag/v1.1.0-installer) 개인비서 CLI (설치 파일) &nbsp;·&nbsp; [🌡️ 온열질환자 수 예측](https://web-wine-one-11.vercel.app/) ML 서비스 (배포)
 
 <div align="center">
 
