@@ -22,8 +22,9 @@
       <a href="https://github.com/snail5039-code/jeonyeok_helper"><img src="./assets/jeonyeok-helper.png" alt="전역도우미"></a>
       <h4>🪖 전역도우미 <img src="https://img.shields.io/badge/개발_중-F59E0B?style=flat-square" alt="개발 중"></h4>
       전역자 혜택을 <b>법령 근거</b>와 함께 찾아 할 일로 이어 주는 에이전트<br>
-      <b>10,143조각 RAG</b> + <b>MCP</b> 공공 API · 검색 Hit@6 100%<br><br>
-      <code>LangGraph</code> <code>pgvector</code> <code>MCP</code><br>
+      <b>10,143조각 하이브리드 RAG</b> + <b>MCP</b> 공공 API<br>
+      답변 평가 <b>202/205</b> · Recall@6 100% · RAGAS 0.886<br><br>
+      <code>LangGraph</code> <code>pgvector</code> <code>MCP</code> <code>RAGAS</code><br>
       <a href="https://github.com/snail5039-code/jeonyeok_helper"><b>저장소 →</b></a>
     </td>
     <td width="33%" valign="top" align="center">
@@ -38,7 +39,8 @@
       <a href="https://github.com/snail5039-code/financial-ai-agent"><img src="./assets/invest-agent.svg" alt="자연어 투자 에이전트"></a>
       <h4>📈 자연어 투자 에이전트 <img src="https://img.shields.io/badge/개발_중-F59E0B?style=flat-square" alt="개발 중"></h4>
       <b>투자 AI 제안 → 검증 AI 대조 → 사용자 승인</b> 뒤에만 주문<br>
-      틀린 제안 <b>19.3/20 차단</b> · 모의 자동매매 매일 운영<br><br>
+      틀린 제안 <b>19.3/20 차단</b><br>
+      모의 자동매매 6일 −5.71% (코스피 −16.69%) · 로직 40개+ 수정<br><br>
       <code>LangGraph</code> <code>FastAPI</code> <code>Flutter</code><br>
       <a href="https://github.com/snail5039-code/financial-ai-agent"><b>저장소 →</b></a>
     </td>
