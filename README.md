@@ -23,7 +23,8 @@
       <h4>🪖 전역도우미 <img src="https://img.shields.io/badge/개발_중-F59E0B?style=flat-square" alt="개발 중"></h4>
       전역자 혜택을 <b>법령 근거</b>와 함께 찾아 할 일로 이어 주는 에이전트<br>
       <b>10,143조각 하이브리드 RAG</b> + <b>MCP</b> 공공 API<br>
-      답변 평가 <b>202/205</b> · Recall@6 100% · RAGAS 0.886<br><br>
+      답변 평가 <b>202/205</b> · Recall@6 100% · RAGAS 0.879<br>
+      근거 원문 보기 · 신청 서류 · 기한 알림<br><br>
       <code>LangGraph</code> <code>pgvector</code> <code>MCP</code> <code>RAGAS</code><br>
       <a href="https://github.com/snail5039-code/jeonyeok_helper"><b>저장소 →</b></a>
     </td>
@@ -75,6 +76,7 @@
 ## 🌱 요즘
 
 - AI 에이전트 엔지니어 트랙을 수강하며 [TIL](https://github.com/snail5039-code/TIL)에 매일 기록합니다.
+- 실습: [한국어 문서 RAG Agent](https://github.com/snail5039-code/rag_agent_practice) — PDF 59개 근거 답변, 근거 없으면 보류, 정답률 0.79 → 0.90 (3인 실습)
 - 만든 제품과 개발 기록은 [HyukForge](https://hyukforge.vercel.app)에 올립니다.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1E3A8A,100:0F172A&section=footer" width="100%" alt="">
