@@ -37,7 +37,7 @@
       <a href="https://github.com/snail5039-code/virtual_bank_agent"><b>저장소 →</b></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/snail5039-code/financial-ai-agent"><img src="./assets/invest-agent.svg" alt="자연어 투자 에이전트"></a>
+      <a href="https://github.com/snail5039-code/financial-ai-agent"><img src="./assets/invest-agent.png" alt="자연어 투자 에이전트 앱 실제 화면 (모의투자 10/22)"></a>
       <h4>📈 자연어 투자 에이전트 <img src="https://img.shields.io/badge/개발_중-F59E0B?style=flat-square" alt="개발 중"></h4>
       <b>투자 AI 제안 → 검증 AI 대조 → 사용자 승인</b> 뒤에만 주문<br>
       틀린 제안 <b>19.3/20 차단</b><br>
