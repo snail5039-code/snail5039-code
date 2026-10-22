@@ -41,7 +41,7 @@
       <h4>📈 자연어 투자 에이전트 <img src="https://img.shields.io/badge/개발_중-F59E0B?style=flat-square" alt="개발 중"></h4>
       <b>투자 AI 제안 → 검증 AI 대조 → 사용자 승인</b> 뒤에만 주문<br>
       틀린 제안 <b>19.3/20 차단</b><br>
-      모의 자동매매 6일 −5.71% (코스피 −16.69%) · 로직 40개+ 수정<br><br>
+      모의 자동매매 10일 −11.30% (코스피 −18.67%) · 로직 50개+ 수정<br><br>
       <code>LangGraph</code> <code>FastAPI</code> <code>Flutter</code><br>
       <a href="https://github.com/snail5039-code/financial-ai-agent"><b>저장소 →</b></a>
     </td>
@@ -66,7 +66,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-pgvector_·_Hybrid-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -77,6 +77,7 @@
 
 - AI 에이전트 엔지니어 트랙을 수강하며 [TIL](https://github.com/snail5039-code/TIL)에 매일 기록합니다.
 - 실습: [한국어 문서 RAG Agent](https://github.com/snail5039-code/rag_agent_practice) — PDF 59개 근거 답변, 근거 없으면 보류, 정답률 0.79 → 0.90 (3인 실습)
+- 팀 미니 프로젝트: [금융 문서 Multi-Agent RAG](https://github.com/snail5039-code/rag_mini_project) — 금융 PDF 23개, PDF 추출과 Agent 구조 개선을 맡아 Judge 정확성 0.792 → 0.883 (3인 팀)
 - 만든 제품과 개발 기록은 [HyukForge](https://hyukforge.vercel.app)에 올립니다.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1E3A8A,100:0F172A&section=footer" width="100%" alt="">
